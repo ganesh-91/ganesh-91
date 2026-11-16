@@ -1,5 +1,50 @@
-# 💫 About Me:
-<!-- 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br> 👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br> 💬 **Ask me about:** <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions. <br><br>
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
---!>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Ganesh Khaire — full-stack engineer at Sure AI, United Kingdom" />
+</p>
+
+<p align="center">
+  <a href="https://ganesh-91.github.io/"><b>Portfolio</b></a> &nbsp;/&nbsp;
+  <a href="https://github.com/ganesh-91?tab=repositories"><b>Repositories</b></a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/LINKEDIN_HANDLE/"><b>LinkedIn</b></a> &nbsp;/&nbsp;
+  <a href="mailto:EMAIL_ADDRESS"><b>Email</b></a>
+</p>
+
+## `(01)` About
+
+**I build products end to end: APIs, dashboards, data pipelines, and the AI that has to work inside them.**
+
+- 💼 Full-stack engineer at **Sure AI** (UK), owning a transit analytics platform from device events to the dashboard
+- 🛰️ Real-time ingestion: MQTT, event streams and serverless pollers feeding PostgreSQL / TimescaleDB
+- 🧠 Applied AI in production: visual search with vector embeddings, caption search, privacy redaction pipelines
+- 🌱 Off screen: code and nature
+
+## `(02)` Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-111111?style=flat-square&logo=timescale&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-111111?style=flat-square&logo=mqtt&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white)
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ganesh-91&hide_border=true&background=f5f4f0&ring=111111&fire=2f7a62&currStreakNum=111111&currStreakLabel=111111&sideNums=111111&sideLabels=6b6a65&dates=6b6a65&stroke=e0ded6&border_radius=16" alt="GitHub streak" />
+</p>
+
+## `(03)` Selected work
+
+| Project | What it is |
+| --- | --- |
+| [**multi-select-react**](https://github.com/ganesh-91/multi-select-react) | React multi-select component ⭐ 5 |
+| [**Microservice-RAG-Q-and-A**](https://github.com/ganesh-91/Microservice-RAG-Q-and-A) | Retrieval-augmented Q&A split into microservices |
+| [**start-up-in-box**](https://github.com/ganesh-91/start-up-in-box) | TypeScript starter for spinning up a product fast |
+| [**system-design-simulator**](https://github.com/ganesh-91/system-design-simulator) | Playground for system design scenarios |
+| [**vue-cognito-ssr**](https://github.com/ganesh-91/vue-cognito-ssr) | Vue + AWS Cognito boilerplate with first-load SSR |
+
+## `(04)` Let's build something.
+
+<img align="right" src="./assets/avatar-desk.svg" width="170" alt="Ganesh coding at a desk next to a plant" />
+
+🟢 **Open to collaborations** and good engineering conversations.
+
+✉️ [EMAIL_ADDRESS](mailto:EMAIL_ADDRESS)<br />
+🔗 [linkedin.com/in/LINKEDIN_HANDLE](https://www.linkedin.com/in/LINKEDIN_HANDLE/)
+
+<br clear="right" />
+
+<p align="center"><sub>© 2026 Ganesh Khaire · code and nature ♥</sub></p>
