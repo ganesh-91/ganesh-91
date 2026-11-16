@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Ganesh Khaire — Full-stack engineer at Sure AI" />
+  <img src="./assets/banner.svg" width="100%" alt="Ganesh Khaire" />
 </p>
 
 <p align="center">
