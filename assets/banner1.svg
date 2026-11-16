@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="1280" height="520" role="img" aria-label="Ganesh Khaire — Full-stack engineer">
+<style>
+  .t { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #111111; }
+  .m { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #6b6a65; }
+  .c { font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+
+  .pulse { animation: pulse 1.6s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: .35; } }
+
+  .sway, .sway2, .type, .bar, .bubble, .leaf, .steam path { transform-box: fill-box; }
+
+  .sway  { transform-origin: 50% 100%; animation: sway 5s cubic-bezier(.45,0,.55,1) infinite; }
+  .sway2 { transform-origin: 50% 100%; animation: sway 6.4s cubic-bezier(.45,0,.55,1) infinite reverse; }
+  @keyframes sway { 0%,100% { transform: rotate(-3deg); } 50% { transform: rotate(3deg); } }
+
+  .type { transform-origin: 0% 50%; animation: type 6s steps(14, end) infinite; }
+  .type.d1 { animation-delay: .5s; } .type.d2 { animation-delay: 1s; } .type.d3 { animation-delay: 1.5s; }
+  .type.d4 { animation-delay: 2s; }  .type.d5 { animation-delay: 2.5s; }
+  @keyframes type { 0% { transform: scaleX(0); } 35%,85% { transform: scaleX(1); } 100% { transform: scaleX(1); opacity: 0; } }
+
+  .caret { animation: caret 1s steps(1) infinite; }
+  @keyframes caret { 50% { opacity: 0; } }
+
+  .bar { transform-origin: 50% 100%; animation: bar 3.2s cubic-bezier(.22,1,.36,1) infinite alternate; }
+  .bar.b2 { animation-delay: .4s; } .bar.b3 { animation-delay: .8s; } .bar.b4 { animation-delay: 1.2s; } .bar.b5 { animation-delay: 1.6s; }
+  @keyframes bar { from { transform: scaleY(.35); } to { transform: scaleY(1); } }
+
+  .bubble { transform-origin: 50% 100%; animation: bubble 4s cubic-bezier(.22,1,.36,1) infinite; }
+  @keyframes bubble { 0% { transform: translateY(8px) scale(.8); opacity: 0; } 18%,70% { transform: translateY(0) scale(1); opacity: 1; } 100% { transform: translateY(-12px) scale(.9); opacity: 0; } }
+
+  .leaf { transform-origin: 50% 50%; animation: leaf 9s ease-in-out infinite; }
+  @keyframes leaf { 0% { transform: translate(0,0) rotate(0); opacity: 0; } 10% { opacity: 1; } 100% { transform: translate(-120px,210px) rotate(220deg); opacity: 0; } }
+
+  .steam path { animation: steam 4s ease-in-out infinite; opacity: 0; }
+  .steam path:nth-child(2) { animation-delay: 1.3s; } .steam path:nth-child(3) { animation-delay: 2.6s; }
+  @keyframes steam { 0% { transform: translateY(6px); opacity: 0; } 40% { opacity: .55; } 100% { transform: translateY(-14px); opacity: 0; } }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <clipPath id="card"><rect width="1280" height="520" rx="28"/></clipPath>
+  <radialGradient id="spot" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="desk" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#DCA56E"/><stop offset="100%" stop-color="#C2864F"/></linearGradient>
+  <linearGradient id="pot" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#E07A4F"/><stop offset="100%" stop-color="#B9583A"/></linearGradient>
+  <linearGradient id="leafg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5DAA68"/><stop offset="100%" stop-color="#2F7A45"/></linearGradient>
+</defs>
+
+<g clip-path="url(#card)">
+  <rect width="1280" height="520" fill="#f5f4f0"/>
+  <circle cx="1010" cy="280" r="300" fill="url(#spot)"/>
+
+  <!-- left: type -->
+  <text class="t" x="64" y="72" font-size="15" font-weight="700" letter-spacing="2.4">GANESH KHAIRE</text>
+  <g><circle class="pulse" cx="70" cy="113" r="4" fill="#2fbf71"/><text class="m" x="84" y="118" font-size="15" font-weight="500">Full-stack engineer · United Kingdom · code &amp; nature</text></g>
+  <text class="t" x="56" y="300" font-size="132" font-weight="900" letter-spacing="-7">GANESH</text>
+  <text class="t" x="56" y="410" font-size="132" font-weight="900" letter-spacing="-7">KHAIRE</text>
+  <text class="m" x="580" y="330" font-size="17" font-weight="600" letter-spacing="1.4">©2026</text>
+  <text class="m" x="64" y="470" font-size="17">Engineer at <tspan class="t" font-weight="600">Sure AI</tspan> · APIs, data pipelines &amp; dashboards · <tspan class="t" font-weight="600">TypeScript</tspan> end to end</text>
+
+  <!-- right: desk scene -->
+  <g transform="translate(0 0)">
+    <!-- floating leaves -->
+    <path class="leaf" d="M1180 40 q14 -10 26 0 q-12 12 -26 0 Z" fill="#5DAA68"/>
+    <path class="leaf" style="animation-delay:4.5s" d="M1230 90 q12 -9 22 0 q-10 10 -22 0 Z" fill="#8CC08F"/>
+
+    <!-- desk -->
+    <ellipse cx="1010" cy="500" rx="230" ry="10" fill="#000" opacity=".06"/>
+    <rect x="760" y="432" width="500" height="22" rx="6" fill="url(#desk)"/>
+    <rect x="790" y="454" width="16" height="70" fill="#B97D48"/>
+    <rect x="1214" y="454" width="16" height="70" fill="#B97D48"/>
+
+    <!-- monitor -->
+    <rect x="985" y="380" width="30" height="40" fill="#A3A8B2"/>
+    <rect x="950" y="418" width="100" height="14" rx="5" fill="#C4C8D0"/>
+    <rect x="848" y="150" width="304" height="236" rx="16" fill="#1B1D22"/>
+    <rect x="860" y="162" width="280" height="196" rx="8" fill="#111318"/>
+    <circle cx="1000" cy="372" r="3" fill="#3A3E47"/>
+
+    <!-- window dots -->
+    <circle cx="874" cy="176" r="4" fill="#FF5F57"/><circle cx="888" cy="176" r="4" fill="#FEBC2E"/><circle cx="902" cy="176" r="4" fill="#28C840"/>
+    <text class="c" x="1126" y="180" font-size="10" fill="#6b6a65" text-anchor="end">api.service.ts</text>
+
+    <!-- code lines -->
+    <g>
+      <rect class="type"    x="874" y="196" width="70"  height="7" rx="3.5" fill="#C678DD"/>
+      <rect class="type"    x="950" y="196" width="96"  height="7" rx="3.5" fill="#61AFEF"/>
+      <rect class="type d1" x="890" y="212" width="120" height="7" rx="3.5" fill="#98C379"/>
+      <rect class="type d2" x="890" y="228" width="58"  height="7" rx="3.5" fill="#E5C07B"/>
+      <rect class="type d2" x="954" y="228" width="110" height="7" rx="3.5" fill="#ABB2BF"/>
+      <rect class="type d3" x="906" y="244" width="140" height="7" rx="3.5" fill="#56B6C2"/>
+      <rect class="type d4" x="890" y="260" width="80"  height="7" rx="3.5" fill="#E06C75"/>
+      <rect class="type d5" x="874" y="276" width="24"  height="7" rx="3.5" fill="#C678DD"/>
+      <rect class="caret" x="904" y="274" width="3" height="11" fill="#e8e8e8"/>
+    </g>
+
+    <!-- mini chart -->
+    <g>
+      <rect x="874" y="296" width="252" height="52" rx="6" fill="#1A1D24"/>
+      <rect class="bar"    x="888"  y="312" width="16" height="30" rx="3" fill="#2fbf71"/>
+      <rect class="bar b2" x="912"  y="304" width="16" height="38" rx="3" fill="#2fbf71" opacity=".85"/>
+      <rect class="bar b3" x="936"  y="318" width="16" height="24" rx="3" fill="#2fbf71" opacity=".7"/>
+      <rect class="bar b4" x="960"  y="300" width="16" height="42" rx="3" fill="#2fbf71"/>
+      <rect class="bar b5" x="984"  y="310" width="16" height="32" rx="3" fill="#2fbf71" opacity=".85"/>
+      <path id="route" d="M1016 336 C1040 300 1060 336 1080 316 S1108 302 1116 312" stroke="#61AFEF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <circle r="4.5" fill="#E5C07B"><animateMotion dur="4s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion></circle>
+    </g>
+
+    <!-- speech bubble -->
+    <g class="bubble">
+      <rect x="1100" y="100" width="92" height="38" rx="12" fill="#111111"/>
+      <path d="M1118 136 l-6 14 l18 -14 Z" fill="#111111"/>
+      <text class="c" x="1146" y="125" font-size="15" font-weight="700" fill="#f5f4f0" text-anchor="middle">&lt;/&gt; ♥</text>
+    </g>
+
+    <!-- plant -->
+    <g>
+      <g class="sway">
+        <path d="M806 372 C792 330 790 290 806 252" stroke="#2F7A45" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M806 300 C780 290 768 268 772 246 C794 252 806 272 806 300 Z" fill="url(#leafg)"/>
+        <path d="M806 262 C820 240 842 234 858 242 C850 262 828 270 806 262 Z" fill="url(#leafg)"/>
+        <path d="M806 252 C800 228 806 208 820 196 C830 214 824 238 806 252 Z" fill="#6DBB76"/>
+      </g>
+      <g class="sway2">
+        <path d="M812 372 C826 340 834 316 846 300" stroke="#2F7A45" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+        <path d="M838 314 C846 290 866 282 884 286 C878 306 858 318 838 314 Z" fill="url(#leafg)"/>
+        <path d="M800 372 C786 352 768 342 752 340 C756 360 776 372 800 372 Z" fill="#4E9B5C"/>
+      </g>
+      <path d="M776 370 L842 370 L834 432 L784 432 Z" fill="url(#pot)"/>
+      <rect x="770" y="362" width="78" height="14" rx="5" fill="#C9653F"/>
+      <text class="c" x="809" y="410" font-size="13" font-weight="700" fill="#f5f4f0" text-anchor="middle" opacity=".9">{ }</text>
+    </g>
+
+    <!-- mug -->
+    <g class="steam" stroke="#B9B4AA" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M1176 382 C1170 374 1182 368 1176 358"/>
+      <path d="M1188 384 C1182 374 1194 366 1188 354"/>
+      <path d="M1200 382 C1194 374 1206 368 1200 358"/>
+    </g>
+    <path d="M1166 392 L1212 392 L1207 432 L1171 432 Z" fill="#ffffff" stroke="#E3E3E3" stroke-width="1.5"/>
+    <path d="M1210 400 C1226 400 1226 422 1208 422" stroke="#E3E3E3" stroke-width="5" fill="none"/>
+    <rect x="1170" y="404" width="38" height="4" rx="2" fill="#2fbf71"/>
+  </g>
+</g>
+</svg>
