@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Ganesh Khaire" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ganesh-91"><b>GitHub</b></a> &nbsp;/&nbsp;
